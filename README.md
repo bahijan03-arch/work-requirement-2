@@ -1,1 +1,3 @@
-# work-requirement-2
+# Practice Project – Work Requirement 2
+
+The project demonstrated to me that development practices which developers use to build software projects effectively lead to shared project knowledge and code ownership between team members. The combination of Git and GitHub enabled me to monitor code modifications which I accomplished through the creation of informative commit records and proper code organization. Version control enables safer team collaboration because it allows teams to assess changes while they can easily correct any errors that occur during the process. The assignment demonstrated to me that development teams consider structure and documentation methods together with Git practices as important components of their work.
